@@ -27,3 +27,5 @@ WX_EXPORT_METHOD(@selector(show:successCallback:failedCallback:))
 {
 
 }
+
+@end

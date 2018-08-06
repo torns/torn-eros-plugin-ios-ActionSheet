@@ -1,7 +1,7 @@
 # coding: utf-8
 Pod::Spec.new do |s|
   s.name         = "TornErosPluginActionSheet"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "TornErosPluginActionSheet Source ."
   s.homepage     = 'https://github.com/torns/torn-eros-plugin-ios-ActionSheet'
   s.license      = "MIT"
